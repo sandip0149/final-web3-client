@@ -1,0 +1,61 @@
+.nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 35px;
+    background-color: #070707;
+    width: 100%;
+    height: 8vh;
+    padding: 1 10;
+}
+.logo{
+    height: 100%;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-left: 10vw;
+   
+    
+
+
+}
+.img-contain{
+    height: 100%;
+    margin: auto;
+
+}
+ .logo-img{
+   display: flex;
+   justify-content: center;
+   align-items: center;
+    height: 40px;
+    width: 40px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+}
+.Button button{
+    padding: 10px;
+    background-color: #8c6dfd;
+    margin-right: 10vw;
+    font-size: larger;
+    
+    outline: none;
+    border-radius: 10px;
+     
+
+}
+
+.right-part{
+    display: flex;
+    width: 50%;
+    justify-content: end;
+    align-items: center;
+
+
+}
+
+.profile-img{
+    margin-right: 3vw;
+    
+}
